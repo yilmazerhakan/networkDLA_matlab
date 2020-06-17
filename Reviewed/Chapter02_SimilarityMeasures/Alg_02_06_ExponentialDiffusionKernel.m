@@ -16,7 +16,7 @@ function K = Alg_02_06_ExponentialDiffusionKernel(A, alpha)
 % -------
 % - A : the (n x n) weighted adjacency matrix of a undirected, connected
 %       graph G.
-% - alpha : the discounting parameter, stricly higher than 0.
+% - alpha : the discounting parameter, strictly higher than 0.
 %
 % OUTPUT:
 % -------
